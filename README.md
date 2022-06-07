@@ -6,11 +6,11 @@
 - MongoDB
 - beautifulsoup
 
-[Bucket List](https://github.com/seominah/python-flask-simple-projects/bucket/README.md)
+[Bucket List](https://github.com/seominah/python-flask-simple-projects/tree/main/bucket)
 - 하고싶은 일 등록 후 완료 
 
-[하루 명언 기록](https://github.com/seominah/python-flask-simple-projects/lifequotes/README.md)
+[하루 명언 기록](https://github.com/seominah/python-flask-simple-projects/tree/main/lifequotes)
 - 명언과 인물 기록
 
-[영화 리뷰 기록](https://github.com/seominah/python-flask-simple-projects/movie/README.md)
+[영화 리뷰 기록](https://github.com/seominah/python-flask-simple-projects/tree/main/movie)
 - 영화 제목, 평점, 코멘트 작성
