@@ -6,6 +6,10 @@
 - MongoDB
 - beautifulsoup
 
+### [자유게시판](https://github.com/seominah/python-flask-simple-projects/post/README.md)
+- 누구나 작성할 수 있는 게시판
+- CRUD 구현
+
 [Bucket List](https://github.com/seominah/python-flask-simple-projects/bucket/README.md)
 - 하고싶은 일 등록 후 완료 
 
