@@ -6,8 +6,6 @@ from pymongo import MongoClient
 
 client = MongoClient('localhost', 27017)
 db = client.post
-# client = MongoClient( "mongodb+srv://David:David452312!@cluster0.3lzzd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-# db = client.sparta
 
 
 @app.route('/')
